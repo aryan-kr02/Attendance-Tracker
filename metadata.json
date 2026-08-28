@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Tracker",
+  "description": "University student attendance portal for tracking academic attendance, 75% threshold calculations, attendance predictions, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
